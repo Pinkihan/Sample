@@ -83,7 +83,7 @@
 }
 .banner{
   height: 100vh;
-  background: url("C:/Users/MAC/Desktop/ool/Images/banner.jpg") no-repeat;
+  background: url("Images/banner.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
